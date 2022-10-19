@@ -1,0 +1,17 @@
+.grid {
+	font-size: 0;
+	pointer-events: unset;
+	/* margin: 2.5% 3% 0; */
+	margin: 2% 2% 0;
+}
+
+.grid-wrapper {
+	display: flex;
+}
+
+.grid-visualizing {
+	font-size: 0;
+	pointer-events: none;
+	/* margin: 2.5% 3% 0; */
+	margin: 2% 2% 0;
+}
